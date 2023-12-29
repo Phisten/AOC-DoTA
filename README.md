@@ -1,5 +1,7 @@
 # AOC DoTA - AOE2 DE version
 
+I'm evaluating whether it's worth porting or remaking. If you like this map or if you have the original file, please let me know.
+
 ## TODO
 
 - [ ] 評估DE玩家量, 可行性
@@ -21,7 +23,6 @@
   - Ben
     - 2006年10月5日 星期四 下午10:29:57
 - =V= AOC DOTA 3F.scx
-  - [MM]Phleg
-  - voobly
+  - [MM]Phleg (voobly)
     - Edited 3 January 2018 - 6:33 am
   - English
