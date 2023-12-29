@@ -22,7 +22,12 @@ I'm evaluating whether it's worth porting or remaking. If you like this map or i
 - AOE DoTA 1.58c 測試1004.scx
   - Ben
     - 2006年10月5日 星期四 下午10:29:57
-- =V= AOC DOTA 3F.scx
-  - [MM]Phleg (voobly)
+- AOC DOTA 1.67 新修正版3.scx
+- AOFE DOTA 1.2.scx
+  - 香腸
+    - nakuz
+    - 發表於 3-7-2009 15:45:54 ()
+- =V= AOC DOTA 3F.scx (English)
+  - [MM]Phleg
+    - voobly
     - Edited 3 January 2018 - 6:33 am
-  - English
